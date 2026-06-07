@@ -16,6 +16,17 @@ Examine geographic clustering across urban and rural Florida counties
 Assess case reporting timeliness and identify surveillance gaps
 Identify predictors of hospitalization using logistic regression
 ---
+## My Role
+
+As the primary analyst, I was responsible for:
+
+- Cleaning and validating surveillance datasets
+- Developing SAS programs for descriptive and inferential analyses
+- Creating demographic and geographic summary tables
+- Conducting logistic regression analyses
+- Interpreting findings for public health reporting
+- Contributing to conference poster development and dissemination
+---
 📂 Files in This Repository
 File	Description
 `mpox_analysis.sas`	Full SAS analysis pipeline
