@@ -3,8 +3,11 @@
 **Keywords:** Public Health Surveillance | Epidemiology | Health Disparities | Population Health | Disease Reporting | Public Health Informatics | SAS | Logistic Regression
 
 **Analyst:** Ashima Singh, MPH
+
 **Affiliation:** Florida Department of Health – Public Health Internship
+
 **Timeline:** Fall 2024
+
 **Tools:** SAS · Microsoft Excel · Epidemiologic Surveillance Methodology
 
 ---
