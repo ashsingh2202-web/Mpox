@@ -142,6 +142,8 @@ De-identified surveillance case data consistent with CDC and Florida Department 
 * Urban counties, particularly Miami-Dade, Broward, and Palm Beach, accounted for the majority of reported cases.
 * Reporting timeliness varied across counties, highlighting opportunities to strengthen surveillance workflows.
 * Multivariable logistic regression identified age group and Hispanic ethnicity as significant predictors of hospitalization after adjustment for sex and geographic factors.
+<img width="661" height="377" alt="image" src="https://github.com/user-attachments/assets/a33fc682-e0bd-4a2a-bdbf-1400473b1d15" />
+<img width="649" height="346" alt="image" src="https://github.com/user-attachments/assets/589dcfab-0041-411d-8181-1189e227d0ea" />
 
 ---
 
